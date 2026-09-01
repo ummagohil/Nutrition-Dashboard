@@ -20,22 +20,22 @@
     "@vitejs/plugin-react": "^4.0.0",
     "daisyui": "^2.51.5",
     "eslint": "8.37.0",
-    "eslint-config-next": "13.2.4",
+    "eslint-config-next": "16.3.4",
     "graphql": "^16.8.1",
-    "next": "14.2.35",
+    "next": "15.5.21",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "recharts": "^2.5.0",
     "typescript": "5.0.3",
-    "uuid": "^9.0.0",
-    "vitest": "^0.30.1"
+    "uuid": "^14.0.0",
+    "vitest": "^3.2.6"
   },
   "devDependencies": {
     "@types/uuid": "^9.0.1",
     "@vitest/coverage-c8": "^0.30.1",
     "autoprefixer": "^10.4.14",
-    "jsdom": "^21.1.1",
+    "jsdom": "^30.0.1",
     "postcss": "^8.4.21",
-    "tailwindcss": "^3.3.1"
+    "tailwindcss": "^4.3.3"
   }
 }
